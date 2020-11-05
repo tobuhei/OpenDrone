@@ -1,10 +1,10 @@
 # OpenDrone
 This repository shows you how I built a real drone from scratch.
 
-##File Layout
+## File Layout
  - Concept
  - Design
-  - SW
-  - HW
+     - SW
+     - HW
  - Program
  - Model
